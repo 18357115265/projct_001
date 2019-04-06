@@ -11,6 +11,7 @@ Vue.component(header.name, header);
 
 // //导入mui样式
 import "./lib/mui/css/mui.css"
+import "./lib/mui/css/icons-extra.css"
 
 
 import App from "./App.vue"
